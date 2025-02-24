@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nicztin)
-- [Twitter](https://twitter.com/nicztin)
-
+- [Telegram](https://t.me/neattenwatch)
+- [YouTube](https://youtube.com/@nicztining?si=Jg_THNiyXvnzv25-)
+- [Instagram](https://t.me/neattenwatch)
 ## 🌟 Featured Projects
 
 - [Project 1](https://github.com/Nicztin/project1) - Description of project 1.
