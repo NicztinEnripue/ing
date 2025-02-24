@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hello, I'm Nicztin! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here's a little bit about me:
@@ -29,9 +28,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 Connect with Me
 
-- [Instagram](https://www.instagram.com/nicztining?igsh=MThnb3RuaDkwZTRs)
-- [Telegram](https://t.me/neattenwatch)
-- [YouTube] (https://youtube.com/@nicztining?si=Jg_THNiyXvnzv25-)
+- [LinkedIn](https://www.linkedin.com/in/nicztin)
+- [Twitter](https://twitter.com/nicztin)
 
 ## 🌟 Featured Projects
 
@@ -41,7 +39,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on anything interesting.
 
-Updated on: 2025-02-24 14:49:14 (UTC)
+Updated on: 2025-02-24 14:44:59 (UTC)
 
 Happy coding! 😊
-````
