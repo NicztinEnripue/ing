@@ -1,16 +1,20 @@
 # Hello, I'm Nicztin! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here's a little bit about me:
+Welcome to my GitHub profile! I’m a passionate developer who loves building innovative and impactful solutions using technology. My expertise spans web development, cloud computing, and open-source contributions, and I’m always eager to learn and collaborate on exciting projects. Here's a little bit about me:
 
-## 🚀 About Me
+## 🚀 Technologies & Skills 🚀
 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced web development and cloud technologies.
 - 👯 I’m looking to collaborate on exciting and innovative projects.
 - 💬 Ask me about anything related to web development, cloud computing, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:nicztin@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places!
+- 💻 Languages: JavaScript, TypeScript, Python, Java, C++
+- 🌐 Frontend: React, Angular, HTML, CSS
+- 🛠️ Backend: Node.js, GraphQL, REST APIs
+- 📱 Mobile: React Native, Flutter
+- ☁️ Cloud & DevOps: AWS, Azure, Google Cloud, Docker, Kubernetes, CI/CD
   
 ## 📝 Description
 
@@ -32,11 +36,20 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ![Nicztin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicztin&show_icons=true&theme=radical)
 
+## 💡 What I Do
+
+🔹 Open-Source Development – Contributing to and maintaining open-source projects.
+🔹 Web & Mobile Development – Building scalable and responsive applications.
+🔹 Cloud Computing – Deploying and optimizing cloud-based solutions.
+🔹 Collaboration – Always open to working on innovative projects with like-minded developers.
+
 ## 📫 Connect with Me
 
+- 📩 Email: [nicztin@gmail.com]
 - [Telegram](https://t.me/neattenwatch)
 - [YouTube](https://youtube.com/@nicztining?si=Jg_THNiyXvnzv25-)
 - [Instagram](https://t.me/neattenwatch)
+  
 ## 🌟 Featured Projects
 
 - [Internet of Things](https://github.com/w3c/wot-thing-description) - The Internet of Things (IoT) refers to the network of physical devices, vehicles, buildings, and other objects embedded with sensors, software, and network connectivity, enabling them to collect and exchange data. This technology allows objects to be sensed and controlled remotely across existing network infrastructure, creating opportunities for more direct integration between the physical world and computer-based systems, resulting in improved efficiency, accuracy, and economic benefit.
@@ -58,5 +71,7 @@ This technology is not only enhancing productivity but also revolutionizing how 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on anything interesting.
 
 Updated on: 2025-02-24 14:44:59 (UTC)
+
+## 🌍 How to reach me: [Nicztining](https://spyandmonitor.com/)
 
 Happy coding! 😊
