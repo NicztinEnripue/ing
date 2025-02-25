@@ -38,10 +38,10 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ## 💡 What I Do
 
--🔹 Open-Source Development – Contributing to and maintaining open-source projects.
--🔹 Web & Mobile Development – Building scalable and responsive applications.
--🔹 Cloud Computing – Deploying and optimizing cloud-based solutions.
--🔹 Collaboration – Always open to working on innovative projects with like-minded developers.
+- 🔹 Open-Source Development – Contributing to and maintaining open-source projects.
+- 🔹 Web & Mobile Development – Building scalable and responsive applications.
+- 🔹 Cloud Computing – Deploying and optimizing cloud-based solutions.
+- 🔹 Collaboration – Always open to working on innovative projects with like-minded developers.
 
 ## 📫 Connect with Me
 
